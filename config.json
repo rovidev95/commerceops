@@ -1,0 +1,59 @@
+{
+  "brand": {
+    "name": "CommerceOps",
+    "slug": "commerceops",
+    "url": "https://commerceops.io",
+    "support_email": "rovidev95@gmail.com"
+  },
+  "billing": {
+    "provider": "lemonsqueezy",
+    "store_id": "",
+    "webhook_secret": "",
+    "products": {
+      "woo_ai_schema_pro": {
+        "variant_id": "",
+        "price_usd": 79,
+        "interval": "year"
+      },
+      "order_webhook_hub_pro": {
+        "variant_id": "",
+        "price_usd": 49,
+        "interval": "year"
+      },
+      "bulk_product_sync_pro": {
+        "variant_id": "",
+        "price_usd": 99,
+        "interval": "year"
+      },
+      "commerceops_bundle": {
+        "variant_id": "",
+        "price_usd": 199,
+        "interval": "year"
+      }
+    }
+  },
+  "audit": {
+    "plugins_per_niche": 12,
+    "min_active_installs_signal": 1000,
+    "stale_days_threshold": 365,
+    "output_dir": "data"
+  },
+  "license": {
+    "api_url": "https://api.lemonsqueezy.com/v1/licenses",
+    "cache_ttl_hours": 12,
+    "grace_period_hours": 72
+  },
+  "autopilot": {
+    "enabled": false,
+    "daily_hour_local": 9,
+    "wake_cursor_agent": true,
+    "agent_brief_file": "data/AGENT_WORK_NOW.md",
+    "wake_file": "data/CURSOR_WAKE.md",
+    "work_queue_file": "data/work-queue.json",
+    "metrics_file": "data/metrics.json",
+    "daily_log_file": "data/daily-log.jsonl",
+    "audit_interval_days": 7,
+    "auto_build_each_tick": true,
+    "continue_cmd": "powershell -NoProfile -ExecutionPolicy Bypass -File commerceops/scripts/Invoke-CommerceOpsAgentDone.ps1"
+  }
+}

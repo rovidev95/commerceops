@@ -1,0 +1,95 @@
+{
+  "version": "2026-07",
+  "niches": [
+    {
+      "id": "woo-schema",
+      "name": "WooCommerce Schema / AI Discoverability",
+      "search_terms": ["woocommerce schema", "product schema woocommerce", "structured data woocommerce"],
+      "tags": ["woocommerce", "schema", "seo"],
+      "priority": 1,
+      "our_product": "woo-ai-schema",
+      "target_price_usd": 79
+    },
+    {
+      "id": "woo-webhooks",
+      "name": "WooCommerce Webhooks & Integrations",
+      "search_terms": ["woocommerce webhook", "woocommerce zapier", "woocommerce integration"],
+      "tags": ["woocommerce", "webhooks"],
+      "priority": 2,
+      "our_product": "order-webhook-hub",
+      "target_price_usd": 49
+    },
+    {
+      "id": "woo-bulk-import",
+      "name": "WooCommerce Bulk Import / Sync",
+      "search_terms": ["woocommerce csv import", "woocommerce bulk edit", "woocommerce product import"],
+      "tags": ["woocommerce", "import"],
+      "priority": 2,
+      "our_product": "bulk-product-sync",
+      "target_price_usd": 99
+    },
+    {
+      "id": "woo-abandoned-cart",
+      "name": "WooCommerce Abandoned Cart",
+      "search_terms": ["woocommerce abandoned cart", "cart recovery woocommerce"],
+      "tags": ["woocommerce", "marketing"],
+      "priority": 3,
+      "our_product": null,
+      "target_price_usd": 19
+    },
+    {
+      "id": "wp-staging",
+      "name": "WordPress Staging / Clone",
+      "search_terms": ["wordpress staging", "clone wordpress site", "wp staging"],
+      "tags": ["staging", "backup"],
+      "priority": 3,
+      "our_product": null,
+      "target_price_usd": 79
+    },
+    {
+      "id": "woo-gdpr",
+      "name": "WooCommerce GDPR / Cookie Compliance",
+      "search_terms": ["woocommerce gdpr", "cookie consent woocommerce", "eu compliance wordpress"],
+      "tags": ["gdpr", "cookie"],
+      "priority": 3,
+      "our_product": null,
+      "target_price_usd": 59
+    },
+    {
+      "id": "agency-health",
+      "name": "Agency Site Health Monitor",
+      "search_terms": ["wordpress site health", "manage multiple wordpress sites", "wordpress client dashboard"],
+      "tags": ["admin", "monitoring"],
+      "priority": 4,
+      "our_product": null,
+      "target_price_usd": 29
+    },
+    {
+      "id": "woo-order-export",
+      "name": "WooCommerce Order Export",
+      "search_terms": ["woocommerce export orders", "woocommerce csv export orders"],
+      "tags": ["woocommerce", "export"],
+      "priority": 4,
+      "our_product": null,
+      "target_price_usd": 49
+    },
+    {
+      "id": "schema-general",
+      "name": "Schema Markup SEO (General WP)",
+      "search_terms": ["schema markup", "structured data wordpress", "json-ld schema"],
+      "tags": ["schema", "seo"],
+      "priority": 2,
+      "our_product": "woo-ai-schema",
+      "target_price_usd": 79
+    },
+    {
+      "id": "woo-reviews-schema",
+      "name": "WooCommerce Review Schema",
+      "search_terms": ["woocommerce reviews schema", "aggregate rating schema woocommerce"],
+      "tags": ["woocommerce", "reviews", "schema"],
+      "priority": 2,
+      "our_product": "woo-ai-schema",
+      "target_price_usd": 49
+    }
+  ]
+}

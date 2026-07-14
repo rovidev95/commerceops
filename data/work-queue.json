@@ -1,0 +1,153 @@
+{
+    "version":  1,
+    "last_tick":  null,
+    "items":  [
+                  {
+                      "id":  "co-001",
+                      "type":  "agent",
+                      "status":  "in_progress",
+                      "priority":  1,
+                      "title":  "Publicar woo-ai-schema en WordPress.org",
+                      "brief":  "Preparar cuenta SVN WordPress.org, subir woo-ai-schema.zip, completar readme/assets en plugins/woo-ai-schema/.wordpress-org/, responder review si llega.",
+                      "product":  "woo-ai-schema",
+                      "auto_tags":  [
+                                        "wporg",
+                                        "launch"
+                                    ],
+                      "started_at":  "2026-07-14T22:16:44.9464718Z"
+                  },
+                  {
+                      "id":  "co-002",
+                      "type":  "auto",
+                      "status":  "in_progress",
+                      "priority":  2,
+                      "title":  "AuditorÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â­a competitiva semanal",
+                      "brief":  "Ejecutar Invoke-CommerceOpsAudit y comparar con audit-prev.json",
+                      "handler":  "Run-Audit"
+                  },
+                  {
+                      "id":  "co-003",
+                      "type":  "agent",
+                      "status":  "pending",
+                      "priority":  2,
+                      "title":  "Chrome Web Store: Schema Validator",
+                      "brief":  "Empaquetar extensions/schema-validator, crear listing, screenshots, publicar en Chrome Web Store.",
+                      "product":  "schema-validator",
+                      "auto_tags":  [
+                                        "chrome",
+                                        "launch"
+                                    ]
+                  },
+                  {
+                      "id":  "co-004",
+                      "type":  "agent",
+                      "status":  "pending",
+                      "priority":  2,
+                      "title":  "Configurar Lemon Squeezy checkout",
+                      "brief":  "Crear productos en Lemon Squeezy, pegar variant_id en config.json, enlazar landing/index.html, probar licencia CO-DEV-TEST y real.",
+                      "product":  "commerceops-core",
+                      "auto_tags":  [
+                                        "billing"
+                                    ]
+                  },
+                  {
+                      "id":  "co-005",
+                      "type":  "agent",
+                      "status":  "pending",
+                      "priority":  3,
+                      "title":  "Bulk Sync: diff preview Pro",
+                      "brief":  "Implementar vista previa de cambios CSV antes de importar en bulk-product-sync. Solo aplicar si licencia Pro activa.",
+                      "product":  "bulk-product-sync",
+                      "auto_tags":  [
+                                        "feature",
+                                        "pro"
+                                    ]
+                  },
+                  {
+                      "id":  "co-006",
+                      "type":  "agent",
+                      "status":  "pending",
+                      "priority":  3,
+                      "title":  "Webhooks: filtros por estado Pro",
+                      "brief":  "AÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±adir filtros evento/estado de pedido en order-webhook-hub Pro. UI en admin + tests manuales.",
+                      "product":  "order-webhook-hub",
+                      "auto_tags":  [
+                                        "feature",
+                                        "pro"
+                                    ]
+                  },
+                  {
+                      "id":  "co-007",
+                      "type":  "auto",
+                      "status":  "completed",
+                      "priority":  4,
+                      "title":  "Build dist ZIPs",
+                      "brief":  "Empaquetar los 3 plugins con core embebido",
+                      "handler":  "Run-Build",
+                      "completed_at":  "2026-07-14T22:16:44.8894805Z",
+                      "note":  "built 3 zips"
+                  },
+                  {
+                      "id":  "co-008",
+                      "type":  "agent",
+                      "status":  "pending",
+                      "priority":  3,
+                      "title":  "Landing commerceops.io live",
+                      "brief":  "Desplegar landing/index.html (GitHub Pages, Cloudflare o similar). Dominio commerceops.io si disponible.",
+                      "product":  "landing",
+                      "auto_tags":  [
+                                        "deploy"
+                                    ]
+                  },
+                  {
+                      "id":  "co-009",
+                      "type":  "agent",
+                      "status":  "pending",
+                      "priority":  4,
+                      "title":  "SEO: comparativas vs competidores",
+                      "brief":  "Crear 3 pÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¡ginas/post comparando woo-ai-schema vs Yoast/RankMath schema gaps usando datos de audit-report.json.",
+                      "product":  "woo-ai-schema",
+                      "auto_tags":  [
+                                        "seo",
+                                        "content"
+                                    ]
+                  },
+                  {
+                      "id":  "co-010",
+                      "type":  "agent",
+                      "status":  "pending",
+                      "priority":  4,
+                      "title":  "Publicar order-webhook-hub en WP.org",
+                      "brief":  "Segundo plugin en WordPress.org tras validar el primero.",
+                      "product":  "order-webhook-hub",
+                      "auto_tags":  [
+                                        "wporg"
+                                    ]
+                  },
+                  {
+                      "id":  "co-011",
+                      "type":  "agent",
+                      "status":  "pending",
+                      "priority":  4,
+                      "title":  "Publicar bulk-product-sync en WP.org",
+                      "brief":  "Tercer plugin en WordPress.org.",
+                      "product":  "bulk-product-sync",
+                      "auto_tags":  [
+                                        "wporg"
+                                    ]
+                  },
+                  {
+                      "id":  "co-012",
+                      "type":  "agent",
+                      "status":  "pending",
+                      "priority":  5,
+                      "title":  "Bundle CommerceOps Pro",
+                      "brief":  "Licencia bundle que activa Pro en los 3 plugins. Un key -\u003e 3 product configs.",
+                      "product":  "commerceops-core",
+                      "auto_tags":  [
+                                        "billing",
+                                        "bundle"
+                                    ]
+                  }
+              ]
+}

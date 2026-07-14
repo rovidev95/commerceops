@@ -1,0 +1,6 @@
+dist/
+data/daily-log.jsonl
+data/cursor-wake.json
+data/CURSOR_WAKE.md
+data/AGENT_WORK_NOW.md
+commerceops/

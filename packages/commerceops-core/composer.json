@@ -1,0 +1,14 @@
+{
+    "name": "commerceops/core",
+    "description": "Shared licensing, admin and billing for CommerceOps WordPress plugins",
+    "type": "wordpress-library",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "CommerceOps\\Core\\": "src/"
+        }
+    }
+}

@@ -1,0 +1,1220 @@
+﻿{
+    "generated_at":  "2026-07-14T22:16:43.8992391Z",
+    "brand":  "CommerceOps",
+    "niches_audited":  10,
+    "summary":  {
+                    "build_count":  6,
+                    "watch_count":  0,
+                    "skip_count":  4,
+                    "top_niche":  "Schema Markup SEO (General WP)",
+                    "top_score":  76
+                },
+    "build_priority":  [
+                           {
+                               "product":  "woo-ai-schema",
+                               "niche":  "Schema Markup SEO (General WP)",
+                               "score":  76,
+                               "price_usd":  79,
+                               "top_targets":  [
+                                                   {
+                                                       "rating":  3.4,
+                                                       "installs":  8000,
+                                                       "score":  59,
+                                                       "slug":  "metasync"
+                                                   },
+                                                   {
+                                                       "rating":  3.6,
+                                                       "installs":  1000,
+                                                       "score":  50,
+                                                       "slug":  "seo-wordpress"
+                                                   },
+                                                   {
+                                                       "rating":  4,
+                                                       "installs":  500000,
+                                                       "score":  45,
+                                                       "slug":  "siteseo"
+                                                   }
+                                               ]
+                           },
+                           {
+                               "product":  "bulk-product-sync",
+                               "niche":  "WooCommerce Bulk Import / Sync",
+                               "score":  63,
+                               "price_usd":  99,
+                               "top_targets":  [
+                                                   {
+                                                       "rating":  3.9,
+                                                       "installs":  800,
+                                                       "score":  49,
+                                                       "slug":  "wp-lister-for-amazon"
+                                                   },
+                                                   {
+                                                       "rating":  3.3,
+                                                       "installs":  500,
+                                                       "score":  47,
+                                                       "slug":  "store-manager-connector"
+                                                   },
+                                                   {
+                                                       "rating":  0,
+                                                       "installs":  70,
+                                                       "score":  43,
+                                                       "slug":  "selling-commander-connector"
+                                                   }
+                                               ]
+                           }
+                       ],
+    "niches":  [
+                   {
+                       "niche_id":  "woo-schema",
+                       "niche_name":  "WooCommerce Schema / AI Discoverability",
+                       "our_product":  "woo-ai-schema",
+                       "target_price":  79,
+                       "priority":  1,
+                       "plugins_found":  9,
+                       "avg_installs":  1,
+                       "niche_score":  24,
+                       "recommendation":  "SKIP",
+                       "top_opportunities":  [
+                                                 {
+                                                     "slug":  "cyberscap-seo-manager",
+                                                     "name":  "Cyberscap SEO Manager",
+                                                     "active_installs":  0,
+                                                     "installs_num":  0,
+                                                     "rating":  0,
+                                                     "num_ratings":  0,
+                                                     "last_updated":  "2025-06-22 8:42am GMT",
+                                                     "days_stale":  387,
+                                                     "short_description":  "A lightweight and optimized SEO plugin for managing meta tags and schema markup, with WooCommerce support and default template functionality.",
+                                                     "opportunity_score":  25,
+                                                     "signals":  "stale"
+                                                 },
+                                                 {
+                                                     "slug":  "schema-star",
+                                                     "name":  "Schema Star",
+                                                     "active_installs":  10,
+                                                     "installs_num":  10,
+                                                     "rating":  5,
+                                                     "num_ratings":  2,
+                                                     "last_updated":  "2026-03-07 9:30pm GMT",
+                                                     "days_stale":  129,
+                                                     "short_description":  "The Ultimate Schema.org \u0026amp; SEO Plugin for WordPress \u0026amp; WooCommerce - Boost your search rankings with powerful structured data.",
+                                                     "opportunity_score":  15,
+                                                     "signals":  {
+
+                                                                 }
+                                                 },
+                                                 {
+                                                     "slug":  "sm-structured-data-manager",
+                                                     "name":  "SM Structured Data Manager",
+                                                     "active_installs":  0,
+                                                     "installs_num":  0,
+                                                     "rating":  0,
+                                                     "num_ratings":  0,
+                                                     "last_updated":  "2026-06-02 7:52am GMT",
+                                                     "days_stale":  43,
+                                                     "short_description":  "Professional structured data manager plugin for WordPress with live JSON-LD preview and multiple schema types.",
+                                                     "opportunity_score":  5,
+                                                     "signals":  {
+
+                                                                 }
+                                                 },
+                                                 {
+                                                     "slug":  "myelophone-seo",
+                                                     "name":  "MyelophOne SEO",
+                                                     "active_installs":  0,
+                                                     "installs_num":  0,
+                                                     "rating":  0,
+                                                     "num_ratings":  0,
+                                                     "last_updated":  "2026-06-22 10:16pm GMT",
+                                                     "days_stale":  22,
+                                                     "short_description":  "SEO toolkit for WordPress, WooCommerce and Elementor with metadata, schema, redirects, robots tools, product templates and SEO quarantine mode.",
+                                                     "opportunity_score":  5,
+                                                     "signals":  {
+
+                                                                 }
+                                                 },
+                                                 {
+                                                     "slug":  "magicgeo",
+                                                     "name":  "MagicGEO for WooCommerce",
+                                                     "active_installs":  0,
+                                                     "installs_num":  0,
+                                                     "rating":  0,
+                                                     "num_ratings":  0,
+                                                     "last_updated":  "2026-02-26 2:05am GMT",
+                                                     "days_stale":  139,
+                                                     "short_description":  "Analyze and optimize WooCommerce products for AI-powered search engines. Generate Schema.org markup and track GEO scores.",
+                                                     "opportunity_score":  5,
+                                                     "signals":  {
+
+                                                                 }
+                                                 }
+                                             ],
+                       "top_incumbents":  [
+                                              {
+                                                  "slug":  "schema-star",
+                                                  "name":  "Schema Star",
+                                                  "active_installs":  10,
+                                                  "installs_num":  10,
+                                                  "rating":  5,
+                                                  "num_ratings":  2,
+                                                  "last_updated":  "2026-03-07 9:30pm GMT",
+                                                  "days_stale":  129,
+                                                  "short_description":  "The Ultimate Schema.org \u0026amp; SEO Plugin for WordPress \u0026amp; WooCommerce - Boost your search rankings with powerful structured data.",
+                                                  "opportunity_score":  15,
+                                                  "signals":  {
+
+                                                              }
+                                              },
+                                              {
+                                                  "slug":  "lotex-seo-for-woocommerce",
+                                                  "name":  "Lotex SEO for WooCommerce",
+                                                  "active_installs":  0,
+                                                  "installs_num":  0,
+                                                  "rating":  0,
+                                                  "num_ratings":  0,
+                                                  "last_updated":  "2026-06-15 5:07pm GMT",
+                                                  "days_stale":  29,
+                                                  "short_description":  "SEO audit, WooCommerce SEO checks, schema analysis, internal links, 404 monitoring, and PageSpeed reports for WooCommerce stores.",
+                                                  "opportunity_score":  5,
+                                                  "signals":  {
+
+                                                              }
+                                              },
+                                              {
+                                                  "slug":  "optaeo",
+                                                  "name":  "OptAEO – AI Visibility for WooCommerce",
+                                                  "active_installs":  0,
+                                                  "installs_num":  0,
+                                                  "rating":  0,
+                                                  "num_ratings":  0,
+                                                  "last_updated":  "2026-06-19 6:10pm GMT",
+                                                  "days_stale":  25,
+                                                  "short_description":  "Win in AI shopping. OptAEO scans, fixes \u0026amp; scores your catalog so ChatGPT, Perplexity, Claude \u0026amp; Gemini recommend your products.",
+                                                  "opportunity_score":  5,
+                                                  "signals":  {
+
+                                                              }
+                                              }
+                                          ],
+                       "audited_at":  "2026-07-14T22:16:31.1121337Z"
+                   },
+                   {
+                       "niche_id":  "woo-webhooks",
+                       "niche_name":  "WooCommerce Webhooks \u0026 Integrations",
+                       "our_product":  "order-webhook-hub",
+                       "target_price":  49,
+                       "priority":  2,
+                       "plugins_found":  7,
+                       "avg_installs":  0,
+                       "niche_score":  18,
+                       "recommendation":  "SKIP",
+                       "top_opportunities":  [
+                                                 {
+                                                     "slug":  "aura-historia-partner-connect",
+                                                     "name":  "Aura Historia Partner Connect",
+                                                     "active_installs":  0,
+                                                     "installs_num":  0,
+                                                     "rating":  0,
+                                                     "num_ratings":  0,
+                                                     "last_updated":  "2026-06-17 4:57pm GMT",
+                                                     "days_stale":  27,
+                                                     "short_description":  "Connects WooCommerce to Aura Historia by creating and maintaining the product webhooks your store needs.",
+                                                     "opportunity_score":  5,
+                                                     "signals":  {
+
+                                                                 }
+                                                 },
+                                                 {
+                                                     "slug":  "stockburst-connector",
+                                                     "name":  "StockBurst Connector",
+                                                     "active_installs":  0,
+                                                     "installs_num":  0,
+                                                     "rating":  0,
+                                                     "num_ratings":  0,
+                                                     "last_updated":  "2026-05-22 1:33pm GMT",
+                                                     "days_stale":  53,
+                                                     "short_description":  "Connect WooCommerce to StockBurst for inventory, orders, pricing, webhook setup, and integration health checks.",
+                                                     "opportunity_score":  5,
+                                                     "signals":  {
+
+                                                                 }
+                                                 },
+                                                 {
+                                                     "slug":  "web-plura-payment-gateway-monitor",
+                                                     "name":  "Web Plura Payment Gateway Monitor – Checkout, Payment \u0026amp; Order Failure Monitor",
+                                                     "active_installs":  0,
+                                                     "installs_num":  0,
+                                                     "rating":  0,
+                                                     "num_ratings":  0,
+                                                     "last_updated":  "2026-07-11 7:28am GMT",
+                                                     "days_stale":  4,
+                                                     "short_description":  "Monitor WooCommerce payment gateways, failed and pending orders, webhook readiness, checkout setup, and local reports.",
+                                                     "opportunity_score":  5,
+                                                     "signals":  {
+
+                                                                 }
+                                                 },
+                                                 {
+                                                     "slug":  "anyapi",
+                                                     "name":  "AnyAPI – Order to API Automation, Webhooks \u0026amp; No-Code REST API Integration for WooCommerce",
+                                                     "active_installs":  0,
+                                                     "installs_num":  0,
+                                                     "rating":  0,
+                                                     "num_ratings":  0,
+                                                     "last_updated":  "2026-07-10 5:25am GMT",
+                                                     "days_stale":  5,
+                                                     "short_description":  "Send WooCommerce orders to any REST API automatically — no code required. Built-in JSON Filter, real-time API Logs, and webhook automation in minutes.",
+                                                     "opportunity_score":  5,
+                                                     "signals":  {
+
+                                                                 }
+                                                 },
+                                                 {
+                                                     "slug":  "eacsoftwareregistry-webhook-endpoints",
+                                                     "name":  "{eac}SoftwareRegistry WooCommerce Webhook Endpoints",
+                                                     "active_installs":  0,
+                                                     "installs_num":  0,
+                                                     "rating":  0,
+                                                     "num_ratings":  0,
+                                                     "last_updated":  "2025-09-04 2:29pm GMT",
+                                                     "days_stale":  313,
+                                                     "short_description":  "Enables the use of WooCommerce Webhooks to create or update a software registration in {eac}SoftwareRegistry when an order or subscription is created  \u0026hellip;",
+                                                     "opportunity_score":  5,
+                                                     "signals":  {
+
+                                                                 }
+                                                 }
+                                             ],
+                       "top_incumbents":  [
+                                              {
+                                                  "slug":  "eacsoftwareregistry-webhook-endpoints",
+                                                  "name":  "{eac}SoftwareRegistry WooCommerce Webhook Endpoints",
+                                                  "active_installs":  0,
+                                                  "installs_num":  0,
+                                                  "rating":  0,
+                                                  "num_ratings":  0,
+                                                  "last_updated":  "2025-09-04 2:29pm GMT",
+                                                  "days_stale":  313,
+                                                  "short_description":  "Enables the use of WooCommerce Webhooks to create or update a software registration in {eac}SoftwareRegistry when an order or subscription is created  \u0026hellip;",
+                                                  "opportunity_score":  5,
+                                                  "signals":  {
+
+                                                              }
+                                              },
+                                              {
+                                                  "slug":  "ploq-webhooks",
+                                                  "name":  "Ploq Webhooks",
+                                                  "active_installs":  0,
+                                                  "installs_num":  0,
+                                                  "rating":  0,
+                                                  "num_ratings":  0,
+                                                  "last_updated":  "2026-07-07 7:41pm GMT",
+                                                  "days_stale":  7,
+                                                  "short_description":  "Reliable outbound webhooks for WooCommerce and WordPress, plus a verified receiver for incoming Ploq webhooks.",
+                                                  "opportunity_score":  5,
+                                                  "signals":  {
+
+                                                              }
+                                              },
+                                              {
+                                                  "slug":  "rt-connect-webhooks",
+                                                  "name":  "RainTech Connect Webhooks",
+                                                  "active_installs":  0,
+                                                  "installs_num":  0,
+                                                  "rating":  0,
+                                                  "num_ratings":  0,
+                                                  "last_updated":  "2026-05-19 1:34pm GMT",
+                                                  "days_stale":  56,
+                                                  "short_description":  "Send webhooks for user registrations, post changes and WooCommerce orders. Extensible and ready for WordPress.org.",
+                                                  "opportunity_score":  5,
+                                                  "signals":  {
+
+                                                              }
+                                              }
+                                          ],
+                       "audited_at":  "2026-07-14T22:16:32.6546916Z"
+                   },
+                   {
+                       "niche_id":  "woo-bulk-import",
+                       "niche_name":  "WooCommerce Bulk Import / Sync",
+                       "our_product":  "bulk-product-sync",
+                       "target_price":  99,
+                       "priority":  2,
+                       "plugins_found":  21,
+                       "avg_installs":  288,
+                       "niche_score":  63,
+                       "recommendation":  "BUILD",
+                       "top_opportunities":  [
+                                                 {
+                                                     "slug":  "wp-lister-for-amazon",
+                                                     "name":  "WP-Lister Lite for Amazon",
+                                                     "active_installs":  800,
+                                                     "installs_num":  800,
+                                                     "rating":  3.9,
+                                                     "num_ratings":  22,
+                                                     "last_updated":  "2026-03-23 6:27am GMT",
+                                                     "days_stale":  114,
+                                                     "short_description":  "List products from WordPress on Amazon.",
+                                                     "opportunity_score":  49,
+                                                     "signals":  "low_rating"
+                                                 },
+                                                 {
+                                                     "slug":  "store-manager-connector",
+                                                     "name":  "eMagicOne Store Manager for WooCommerce",
+                                                     "active_installs":  500,
+                                                     "installs_num":  500,
+                                                     "rating":  3.3,
+                                                     "num_ratings":  10,
+                                                     "last_updated":  "2025-12-09 2:36pm GMT",
+                                                     "days_stale":  217,
+                                                     "short_description":  "Store Manager Connector is used to connect Store Manager to WooCommerce database in convenient and quick way.",
+                                                     "opportunity_score":  47,
+                                                     "signals":  "low_rating"
+                                                 },
+                                                 {
+                                                     "slug":  "selling-commander-connector",
+                                                     "name":  "Selling Commander for WooCommerce \u0026#8211; connector plugin",
+                                                     "active_installs":  70,
+                                                     "installs_num":  70,
+                                                     "rating":  0,
+                                                     "num_ratings":  0,
+                                                     "last_updated":  "2024-10-16 6:56am GMT",
+                                                     "days_stale":  637,
+                                                     "short_description":  "Selling Commander for WooCommerce - connector plugin",
+                                                     "opportunity_score":  43,
+                                                     "signals":  "stale"
+                                                 },
+                                                 {
+                                                     "slug":  "import-shopify-to-woocommerce",
+                                                     "name":  "S2W \u0026#8211; Import Shopify to WooCommerce",
+                                                     "active_installs":  3000,
+                                                     "installs_num":  3000,
+                                                     "rating":  4.7,
+                                                     "num_ratings":  42,
+                                                     "last_updated":  "2026-06-20 8:31am GMT",
+                                                     "days_stale":  24,
+                                                     "short_description":  "Easily migrate all Shopify products and their collections(categories) to WooCommerce after several clicks",
+                                                     "opportunity_score":  40,
+                                                     "signals":  {
+
+                                                                 }
+                                                 },
+                                                 {
+                                                     "slug":  "my-auctions-allegro-free-edition",
+                                                     "name":  "My auctions allegro",
+                                                     "active_installs":  500,
+                                                     "installs_num":  500,
+                                                     "rating":  4.6,
+                                                     "num_ratings":  22,
+                                                     "last_updated":  "2026-06-18 2:12pm GMT",
+                                                     "days_stale":  26,
+                                                     "short_description":  "Integrate Allegro with WordPress \u0026amp; WooCommerce! My Auctions Allegro imports auctions, syncs inventory/prices, handles orders/accounts.",
+                                                     "opportunity_score":  32,
+                                                     "signals":  {
+
+                                                                 }
+                                                 }
+                                             ],
+                       "top_incumbents":  [
+                                              {
+                                                  "slug":  "import-shopify-to-woocommerce",
+                                                  "name":  "S2W \u0026#8211; Import Shopify to WooCommerce",
+                                                  "active_installs":  3000,
+                                                  "installs_num":  3000,
+                                                  "rating":  4.7,
+                                                  "num_ratings":  42,
+                                                  "last_updated":  "2026-06-20 8:31am GMT",
+                                                  "days_stale":  24,
+                                                  "short_description":  "Easily migrate all Shopify products and their collections(categories) to WooCommerce after several clicks",
+                                                  "opportunity_score":  40,
+                                                  "signals":  {
+
+                                                              }
+                                              },
+                                              {
+                                                  "slug":  "wp-lister-for-amazon",
+                                                  "name":  "WP-Lister Lite for Amazon",
+                                                  "active_installs":  800,
+                                                  "installs_num":  800,
+                                                  "rating":  3.9,
+                                                  "num_ratings":  22,
+                                                  "last_updated":  "2026-03-23 6:27am GMT",
+                                                  "days_stale":  114,
+                                                  "short_description":  "List products from WordPress on Amazon.",
+                                                  "opportunity_score":  49,
+                                                  "signals":  "low_rating"
+                                              },
+                                              {
+                                                  "slug":  "my-auctions-allegro-free-edition",
+                                                  "name":  "My auctions allegro",
+                                                  "active_installs":  500,
+                                                  "installs_num":  500,
+                                                  "rating":  4.6,
+                                                  "num_ratings":  22,
+                                                  "last_updated":  "2026-06-18 2:12pm GMT",
+                                                  "days_stale":  26,
+                                                  "short_description":  "Integrate Allegro with WordPress \u0026amp; WooCommerce! My Auctions Allegro imports auctions, syncs inventory/prices, handles orders/accounts.",
+                                                  "opportunity_score":  32,
+                                                  "signals":  {
+
+                                                              }
+                                              }
+                                          ],
+                       "audited_at":  "2026-07-14T22:16:34.3897375Z"
+                   },
+                   {
+                       "niche_id":  "woo-abandoned-cart",
+                       "niche_name":  "WooCommerce Abandoned Cart",
+                       "our_product":  null,
+                       "target_price":  19,
+                       "priority":  3,
+                       "plugins_found":  16,
+                       "avg_installs":  8824,
+                       "niche_score":  57,
+                       "recommendation":  "BUILD",
+                       "top_opportunities":  [
+                                                 {
+                                                     "slug":  "klaviyo",
+                                                     "name":  "Klaviyo",
+                                                     "active_installs":  100000,
+                                                     "installs_num":  100000,
+                                                     "rating":  2.8,
+                                                     "num_ratings":  24,
+                                                     "last_updated":  "2026-05-29 3:19pm GMT",
+                                                     "days_stale":  46,
+                                                     "short_description":  "Klaviyo for WooCommerce",
+                                                     "opportunity_score":  60,
+                                                     "signals":  [
+                                                                     "low_rating",
+                                                                     "high_demand"
+                                                                 ]
+                                                 },
+                                                 {
+                                                     "slug":  "omnisend-connect",
+                                                     "name":  "Email Marketing for WooCommerce by Omnisend",
+                                                     "active_installs":  40000,
+                                                     "installs_num":  40000,
+                                                     "rating":  4.9,
+                                                     "num_ratings":  168,
+                                                     "last_updated":  "2026-07-01 10:36am GMT",
+                                                     "days_stale":  13,
+                                                     "short_description":  "Email Marketing, Newsletter, Email Automation, Forms, Pop Up, SMS, Abandoned Cart made easy for WordPress \u0026amp; WooCommerce by Omnisend",
+                                                     "opportunity_score":  40,
+                                                     "signals":  {
+
+                                                                 }
+                                                 },
+                                                 {
+                                                     "slug":  "ecomail",
+                                                     "name":  "Ecomail",
+                                                     "active_installs":  1000,
+                                                     "installs_num":  1000,
+                                                     "rating":  4,
+                                                     "num_ratings":  3,
+                                                     "last_updated":  "2026-03-17 12:59pm GMT",
+                                                     "days_stale":  119,
+                                                     "short_description":  "Official plugin to connect your WooCommerce platform with Ecomail.cz application.",
+                                                     "opportunity_score":  35,
+                                                     "signals":  {
+
+                                                                 }
+                                                 },
+                                                 {
+                                                     "slug":  "cart-recovery",
+                                                     "name":  "Cart recovery for WordPress",
+                                                     "active_installs":  100,
+                                                     "installs_num":  100,
+                                                     "rating":  5,
+                                                     "num_ratings":  6,
+                                                     "last_updated":  "2026-05-18 3:17pm GMT",
+                                                     "days_stale":  57,
+                                                     "short_description":  "Cart recovery for WordPress brings abandoned cart recovery and tracking to your WordPress store.",
+                                                     "opportunity_score":  25,
+                                                     "signals":  {
+
+                                                                 }
+                                                 },
+                                                 {
+                                                     "slug":  "notifal",
+                                                     "name":  "Notifal \u0026#8211; AI Popup Builder \u0026amp; CRO Engine: Sales Notifications, Social Proof \u0026amp; Exit Intent Popups",
+                                                     "active_installs":  40,
+                                                     "installs_num":  40,
+                                                     "rating":  5,
+                                                     "num_ratings":  2,
+                                                     "last_updated":  "2026-07-14 2:13pm GMT",
+                                                     "days_stale":  0,
+                                                     "short_description":  "The Conversion Rate Optimization engine for WordPress. Show social proof, sales notifications, exit intent popups, and lead capture offers that turn v \u0026hellip;",
+                                                     "opportunity_score":  21,
+                                                     "signals":  {
+
+                                                                 }
+                                                 }
+                                             ],
+                       "top_incumbents":  [
+                                              {
+                                                  "slug":  "klaviyo",
+                                                  "name":  "Klaviyo",
+                                                  "active_installs":  100000,
+                                                  "installs_num":  100000,
+                                                  "rating":  2.8,
+                                                  "num_ratings":  24,
+                                                  "last_updated":  "2026-05-29 3:19pm GMT",
+                                                  "days_stale":  46,
+                                                  "short_description":  "Klaviyo for WooCommerce",
+                                                  "opportunity_score":  60,
+                                                  "signals":  [
+                                                                  "low_rating",
+                                                                  "high_demand"
+                                                              ]
+                                              },
+                                              {
+                                                  "slug":  "omnisend-connect",
+                                                  "name":  "Email Marketing for WooCommerce by Omnisend",
+                                                  "active_installs":  40000,
+                                                  "installs_num":  40000,
+                                                  "rating":  4.9,
+                                                  "num_ratings":  168,
+                                                  "last_updated":  "2026-07-01 10:36am GMT",
+                                                  "days_stale":  13,
+                                                  "short_description":  "Email Marketing, Newsletter, Email Automation, Forms, Pop Up, SMS, Abandoned Cart made easy for WordPress \u0026amp; WooCommerce by Omnisend",
+                                                  "opportunity_score":  40,
+                                                  "signals":  {
+
+                                                              }
+                                              },
+                                              {
+                                                  "slug":  "ecomail",
+                                                  "name":  "Ecomail",
+                                                  "active_installs":  1000,
+                                                  "installs_num":  1000,
+                                                  "rating":  4,
+                                                  "num_ratings":  3,
+                                                  "last_updated":  "2026-03-17 12:59pm GMT",
+                                                  "days_stale":  119,
+                                                  "short_description":  "Official plugin to connect your WooCommerce platform with Ecomail.cz application.",
+                                                  "opportunity_score":  35,
+                                                  "signals":  {
+
+                                                              }
+                                              }
+                                          ],
+                       "audited_at":  "2026-07-14T22:16:35.5473589Z"
+                   },
+                   {
+                       "niche_id":  "wp-staging",
+                       "niche_name":  "WordPress Staging / Clone",
+                       "our_product":  null,
+                       "target_price":  79,
+                       "priority":  3,
+                       "plugins_found":  12,
+                       "avg_installs":  93755,
+                       "niche_score":  55,
+                       "recommendation":  "BUILD",
+                       "top_opportunities":  [
+                                                 {
+                                                     "slug":  "instawp-connect",
+                                                     "name":  "InstaWP Connect \u0026#8211; 1-click WP Staging \u0026amp; Migration",
+                                                     "active_installs":  40000,
+                                                     "installs_num":  40000,
+                                                     "rating":  4.5,
+                                                     "num_ratings":  11,
+                                                     "last_updated":  "2026-06-29 6:23am GMT",
+                                                     "days_stale":  16,
+                                                     "short_description":  "Create a staging WordPress site from production (live site). Ideal for testing updates, version change or re-write. Sync back only the changes.",
+                                                     "opportunity_score":  45,
+                                                     "signals":  {
+
+                                                                 }
+                                                 },
+                                                 {
+                                                     "slug":  "fastdup",
+                                                     "name":  "FastDup \u0026#8211; Fastest WordPress Migration \u0026amp; Duplicator",
+                                                     "active_installs":  5000,
+                                                     "installs_num":  5000,
+                                                     "rating":  4.6,
+                                                     "num_ratings":  27,
+                                                     "last_updated":  "2026-06-08 3:23pm GMT",
+                                                     "days_stale":  36,
+                                                     "short_description":  "FastDup - Fastest WordPress Migration \u0026amp; Duplicator",
+                                                     "opportunity_score":  42,
+                                                     "signals":  {
+
+                                                                 }
+                                                 },
+                                                 {
+                                                     "slug":  "wp-time-capsule",
+                                                     "name":  "Backup and Staging by WP Time Capsule",
+                                                     "active_installs":  20000,
+                                                     "installs_num":  20000,
+                                                     "rating":  4,
+                                                     "num_ratings":  127,
+                                                     "last_updated":  "2026-06-10 5:33am GMT",
+                                                     "days_stale":  35,
+                                                     "short_description":  "Backup and Staging by WP Time Capsule is an automated incremental backup plugin that backs up your website changes as per your schedule to Dropbox, Go \u0026hellip;",
+                                                     "opportunity_score":  40,
+                                                     "signals":  {
+
+                                                                 }
+                                                 },
+                                                 {
+                                                     "slug":  "super-stage-wp",
+                                                     "name":  "Super Stage WP",
+                                                     "active_installs":  10,
+                                                     "installs_num":  10,
+                                                     "rating":  3,
+                                                     "num_ratings":  2,
+                                                     "last_updated":  "2026-02-04 6:21am GMT",
+                                                     "days_stale":  161,
+                                                     "short_description":  "Instant staging of your WordPress Site.",
+                                                     "opportunity_score":  30,
+                                                     "signals":  "low_rating"
+                                                 },
+                                                 {
+                                                     "slug":  "stifli-backup-tools",
+                                                     "name":  "StifLi Backup Tools",
+                                                     "active_installs":  50,
+                                                     "installs_num":  50,
+                                                     "rating":  0,
+                                                     "num_ratings":  0,
+                                                     "last_updated":  "2026-05-25 7:56am GMT",
+                                                     "days_stale":  51,
+                                                     "short_description":  "WordPress backup, restore, migration, staging \u0026amp; remote storage tools built for reliable protection on real hosting environments.",
+                                                     "opportunity_score":  22,
+                                                     "signals":  {
+
+                                                                 }
+                                                 }
+                                             ],
+                       "top_incumbents":  [
+                                              {
+                                                  "slug":  "wpvivid-backuprestore",
+                                                  "name":  "WPvivid — Backup, Migration \u0026amp; Staging",
+                                                  "active_installs":  900000,
+                                                  "installs_num":  900000,
+                                                  "rating":  4.9,
+                                                  "num_ratings":  1510,
+                                                  "last_updated":  "2026-07-09 2:42am GMT",
+                                                  "days_stale":  6,
+                                                  "short_description":  "All-in-one WordPress backup, migration and staging plugin — schedule automatic backups, restore in one click, and migrate or clone sites safely.",
+                                                  "opportunity_score":  15,
+                                                  "signals":  {
+
+                                                              }
+                                              },
+                                              {
+                                                  "slug":  "backup-backup",
+                                                  "name":  "Backup Migration",
+                                                  "active_installs":  80000,
+                                                  "installs_num":  80000,
+                                                  "rating":  4.9,
+                                                  "num_ratings":  1325,
+                                                  "last_updated":  "2026-06-05 8:18pm GMT",
+                                                  "days_stale":  39,
+                                                  "short_description":  "Backup, migrate, and create staging sites with free cloud storage and support.",
+                                                  "opportunity_score":  15,
+                                                  "signals":  {
+
+                                                              }
+                                              },
+                                              {
+                                                  "slug":  "blogvault-real-time-backup",
+                                                  "name":  "BlogVault Backup \u0026amp; Staging",
+                                                  "active_installs":  80000,
+                                                  "installs_num":  80000,
+                                                  "rating":  4.5,
+                                                  "num_ratings":  326,
+                                                  "last_updated":  "2026-06-06 4:55am GMT",
+                                                  "days_stale":  39,
+                                                  "short_description":  "Secure incremental backups with staging, migration, and one-click restore for WordPress. Offsite storage and easy recovery.",
+                                                  "opportunity_score":  15,
+                                                  "signals":  {
+
+                                                              }
+                                              }
+                                          ],
+                       "audited_at":  "2026-07-14T22:16:37.1497167Z"
+                   },
+                   {
+                       "niche_id":  "woo-gdpr",
+                       "niche_name":  "WooCommerce GDPR / Cookie Compliance",
+                       "our_product":  null,
+                       "target_price":  59,
+                       "priority":  3,
+                       "plugins_found":  19,
+                       "avg_installs":  58031,
+                       "niche_score":  62,
+                       "recommendation":  "BUILD",
+                       "top_opportunities":  [
+                                                 {
+                                                     "slug":  "seatext-free-translation-and-conversion-rate-boost",
+                                                     "name":  "SEATEXT FREE Translation and Conversion Rate Boost",
+                                                     "active_installs":  40,
+                                                     "installs_num":  40,
+                                                     "rating":  3,
+                                                     "num_ratings":  2,
+                                                     "last_updated":  "2024-12-17 3:50am GMT",
+                                                     "days_stale":  575,
+                                                     "short_description":  "🌎 100% Free AI translation 125 languages 🛡️ GDPR/CCPA compliant cookies 🤖 +35% sales with AI A/B testing 📱 AI improve Google ads 🎯 AI SEO",
+                                                     "opportunity_score":  56,
+                                                     "signals":  [
+                                                                     "stale",
+                                                                     "low_rating"
+                                                                 ]
+                                                 },
+                                                 {
+                                                     "slug":  "civic-cookie-control-8",
+                                                     "name":  "Civic Cookie Control",
+                                                     "active_installs":  2000,
+                                                     "installs_num":  2000,
+                                                     "rating":  3.9,
+                                                     "num_ratings":  7,
+                                                     "last_updated":  "2026-02-16 12:52pm GMT",
+                                                     "days_stale":  148,
+                                                     "short_description":  "This plugin enables you to comply with the UK and EU law on cookies.",
+                                                     "opportunity_score":  53,
+                                                     "signals":  "low_rating"
+                                                 },
+                                                 {
+                                                     "slug":  "cookie-information-consent-solution",
+                                                     "name":  "Cookie Information – Cookie Banner with Consent Mode v2",
+                                                     "active_installs":  2000,
+                                                     "installs_num":  2000,
+                                                     "rating":  3,
+                                                     "num_ratings":  4,
+                                                     "last_updated":  "2025-11-07 10:15am GMT",
+                                                     "days_stale":  249,
+                                                     "short_description":  "Easily set up Google Consent Mode and custom cookie banners to comply with GDPR, ePrivacy, CCPA. Collect consent and build trust with your customers.",
+                                                     "opportunity_score":  53,
+                                                     "signals":  "low_rating"
+                                                 },
+                                                 {
+                                                     "slug":  "dadi-cookie-consent-lite",
+                                                     "name":  "Dadi Cookie Consent Lite",
+                                                     "active_installs":  10,
+                                                     "installs_num":  10,
+                                                     "rating":  0,
+                                                     "num_ratings":  0,
+                                                     "last_updated":  "2024-06-14 12:22pm GMT",
+                                                     "days_stale":  760,
+                                                     "short_description":  "Useful plugin to block privacy-invasive cookies.",
+                                                     "opportunity_score":  45,
+                                                     "signals":  "stale"
+                                                 },
+                                                 {
+                                                     "slug":  "gdpr-ccpa-compliance",
+                                                     "name":  "Privacy Offload \u0026#8211; GDPR/CCPA Manager",
+                                                     "active_installs":  10,
+                                                     "installs_num":  10,
+                                                     "rating":  5,
+                                                     "num_ratings":  5,
+                                                     "last_updated":  "2021-05-12 6:19am GMT",
+                                                     "days_stale":  1890,
+                                                     "short_description":  "Configure your Cookie Notice, Cookie Consent and Cookie Policy with our Wizard and Cookie Scan. Supports GDPR, DSGVO, CCPA and PIPEDA.",
+                                                     "opportunity_score":  45,
+                                                     "signals":  "stale"
+                                                 }
+                                             ],
+                       "top_incumbents":  [
+                                              {
+                                                  "slug":  "complianz-gdpr",
+                                                  "name":  "Complianz \u0026#8211; GDPR/CCPA Cookie Consent",
+                                                  "active_installs":  1000000,
+                                                  "installs_num":  1000000,
+                                                  "rating":  4.7,
+                                                  "num_ratings":  1646,
+                                                  "last_updated":  "2026-06-17 5:11pm GMT",
+                                                  "days_stale":  27,
+                                                  "short_description":  "Configure your Cookie Banner, Cookie Consent and Cookie Policy with our Wizard and Cookies Scan.",
+                                                  "opportunity_score":  15,
+                                                  "signals":  {
+
+                                                              }
+                                              },
+                                              {
+                                                  "slug":  "auto-terms-of-service-and-privacy-policy",
+                                                  "name":  "TermsFeed AutoTerms: Privacy Policy Generator, Cookie Consent, GDPR, CCPA, Terms \u0026amp; Conditions, Disclaimers, Cookies Policy, EULA",
+                                                  "active_installs":  70000,
+                                                  "installs_num":  70000,
+                                                  "rating":  4.7,
+                                                  "num_ratings":  245,
+                                                  "last_updated":  "2026-01-28 8:29pm GMT",
+                                                  "days_stale":  167,
+                                                  "short_description":  "All-in-One compliance solution from TermsFeed: Generator of Privacy Policy, T\u0026amp;Cs, Affiliate Disclaimers and Cookie Consent Notice Banner.",
+                                                  "opportunity_score":  15,
+                                                  "signals":  {
+
+                                                              }
+                                              },
+                                              {
+                                                  "slug":  "dsgvo-all-in-one-for-wp",
+                                                  "name":  "DSGVO All in one for WP",
+                                                  "active_installs":  20000,
+                                                  "installs_num":  20000,
+                                                  "rating":  4,
+                                                  "num_ratings":  164,
+                                                  "last_updated":  "2026-04-11 8:25am GMT",
+                                                  "days_stale":  94,
+                                                  "short_description":  "An All in One GDPR Plugin for everything! Responsive Cookie Notice - Imprint \u0026amp; Privacy Policy Generator - integrate external Services GDPR complia \u0026hellip;",
+                                                  "opportunity_score":  40,
+                                                  "signals":  {
+
+                                                              }
+                                              }
+                                          ],
+                       "audited_at":  "2026-07-14T22:16:38.7250727Z"
+                   },
+                   {
+                       "niche_id":  "agency-health",
+                       "niche_name":  "Agency Site Health Monitor",
+                       "our_product":  null,
+                       "target_price":  29,
+                       "priority":  4,
+                       "plugins_found":  2,
+                       "avg_installs":  5,
+                       "niche_score":  12,
+                       "recommendation":  "SKIP",
+                       "top_opportunities":  [
+                                                 {
+                                                     "slug":  "sitesignal",
+                                                     "name":  "SiteSignal",
+                                                     "active_installs":  10,
+                                                     "installs_num":  10,
+                                                     "rating":  5,
+                                                     "num_ratings":  2,
+                                                     "last_updated":  "2025-12-17 5:24am GMT",
+                                                     "days_stale":  210,
+                                                     "short_description":  "SiteSignal WordPress connector for AI visibility, website health, performance monitoring, and technical audits.",
+                                                     "opportunity_score":  15,
+                                                     "signals":  {
+
+                                                                 }
+                                                 },
+                                                 {
+                                                     "slug":  "grumpy-ai-gate",
+                                                     "name":  "Grumpy AI Gate",
+                                                     "active_installs":  0,
+                                                     "installs_num":  0,
+                                                     "rating":  5,
+                                                     "num_ratings":  1,
+                                                     "last_updated":  "2026-04-29 3:11pm GMT",
+                                                     "days_stale":  76,
+                                                     "short_description":  "Intercept and log AI-related HTTP from plugins/themes; optional AI Client blocking. All data stays on your server.",
+                                                     "opportunity_score":  5,
+                                                     "signals":  {
+
+                                                                 }
+                                                 }
+                                             ],
+                       "top_incumbents":  [
+                                              {
+                                                  "slug":  "sitesignal",
+                                                  "name":  "SiteSignal",
+                                                  "active_installs":  10,
+                                                  "installs_num":  10,
+                                                  "rating":  5,
+                                                  "num_ratings":  2,
+                                                  "last_updated":  "2025-12-17 5:24am GMT",
+                                                  "days_stale":  210,
+                                                  "short_description":  "SiteSignal WordPress connector for AI visibility, website health, performance monitoring, and technical audits.",
+                                                  "opportunity_score":  15,
+                                                  "signals":  {
+
+                                                              }
+                                              },
+                                              {
+                                                  "slug":  "grumpy-ai-gate",
+                                                  "name":  "Grumpy AI Gate",
+                                                  "active_installs":  0,
+                                                  "installs_num":  0,
+                                                  "rating":  5,
+                                                  "num_ratings":  1,
+                                                  "last_updated":  "2026-04-29 3:11pm GMT",
+                                                  "days_stale":  76,
+                                                  "short_description":  "Intercept and log AI-related HTTP from plugins/themes; optional AI Client blocking. All data stays on your server.",
+                                                  "opportunity_score":  5,
+                                                  "signals":  {
+
+                                                              }
+                                              }
+                                          ],
+                       "audited_at":  "2026-07-14T22:16:40.1874076Z"
+                   },
+                   {
+                       "niche_id":  "woo-order-export",
+                       "niche_name":  "WooCommerce Order Export",
+                       "our_product":  null,
+                       "target_price":  49,
+                       "priority":  4,
+                       "plugins_found":  18,
+                       "avg_installs":  6021,
+                       "niche_score":  63,
+                       "recommendation":  "BUILD",
+                       "top_opportunities":  [
+                                                 {
+                                                     "slug":  "all-woocommerce-export",
+                                                     "name":  "All Woocommerce Export",
+                                                     "active_installs":  100,
+                                                     "installs_num":  100,
+                                                     "rating":  1,
+                                                     "num_ratings":  1,
+                                                     "last_updated":  "2025-04-17 9:01am GMT",
+                                                     "days_stale":  453,
+                                                     "short_description":  "Export WooCommerce Orders, products and Customers into Excel. Supports all Excel format XLS, XLSX \u0026amp; Mac)",
+                                                     "opportunity_score":  60,
+                                                     "signals":  [
+                                                                     "stale",
+                                                                     "low_rating"
+                                                                 ]
+                                                 },
+                                                 {
+                                                     "slug":  "order-export-for-woocommerce",
+                                                     "name":  "WP All Export – Order Export for WooCommerce",
+                                                     "active_installs":  3000,
+                                                     "installs_num":  3000,
+                                                     "rating":  3.9,
+                                                     "num_ratings":  8,
+                                                     "last_updated":  "2026-01-30 1:52pm GMT",
+                                                     "days_stale":  165,
+                                                     "short_description":  "Drag \u0026amp; drop to export orders to CSV, Excel, or XML files of any format. Supports customer data, line items, date range filtering, and more with po \u0026hellip;",
+                                                     "opportunity_score":  55,
+                                                     "signals":  "low_rating"
+                                                 },
+                                                 {
+                                                     "slug":  "wc-myparcel-belgium",
+                                                     "name":  "WC MyParcel Belgium",
+                                                     "active_installs":  600,
+                                                     "installs_num":  600,
+                                                     "rating":  2,
+                                                     "num_ratings":  3,
+                                                     "last_updated":  "2025-07-31 11:23am GMT",
+                                                     "days_stale":  348,
+                                                     "short_description":  "Export your WooCommerce orders to MyParcel Belgium (https://sendmyparcel.be/) and print labels directly from the WooCommerce admin.",
+                                                     "opportunity_score":  48,
+                                                     "signals":  "low_rating"
+                                                 },
+                                                 {
+                                                     "slug":  "mergado-marketing-pack",
+                                                     "name":  "Mergado Pack",
+                                                     "active_installs":  700,
+                                                     "installs_num":  700,
+                                                     "rating":  3.6,
+                                                     "num_ratings":  17,
+                                                     "last_updated":  "2026-01-20 1:54pm GMT",
+                                                     "days_stale":  175,
+                                                     "short_description":  "Connect your online store to the e-commerce world and get even more from hundreds shopping channels",
+                                                     "opportunity_score":  48,
+                                                     "signals":  "low_rating"
+                                                 },
+                                                 {
+                                                     "slug":  "accounting-for-woocommerce",
+                                                     "name":  "Accounting for WooCommerce",
+                                                     "active_installs":  500,
+                                                     "installs_num":  500,
+                                                     "rating":  3.7,
+                                                     "num_ratings":  3,
+                                                     "last_updated":  "2026-06-02 1:43pm GMT",
+                                                     "days_stale":  42,
+                                                     "short_description":  "All you need to transfer accounting data from Woocommerce to accounting softwares!",
+                                                     "opportunity_score":  47,
+                                                     "signals":  "low_rating"
+                                                 }
+                                             ],
+                       "top_incumbents":  [
+                                              {
+                                                  "slug":  "woo-order-export-lite",
+                                                  "name":  "Advanced Order Export For WooCommerce",
+                                                  "active_installs":  100000,
+                                                  "installs_num":  100000,
+                                                  "rating":  5,
+                                                  "num_ratings":  350,
+                                                  "last_updated":  "2026-06-08 4:38am GMT",
+                                                  "days_stale":  37,
+                                                  "short_description":  "Export WooCommerce orders to Excel, CSV, XML, JSON, PDF and HTML. Best free order export plugin for WooCommerce.",
+                                                  "opportunity_score":  15,
+                                                  "signals":  {
+
+                                                              }
+                                              },
+                                              {
+                                                  "slug":  "order-export-for-woocommerce",
+                                                  "name":  "WP All Export – Order Export for WooCommerce",
+                                                  "active_installs":  3000,
+                                                  "installs_num":  3000,
+                                                  "rating":  3.9,
+                                                  "num_ratings":  8,
+                                                  "last_updated":  "2026-01-30 1:52pm GMT",
+                                                  "days_stale":  165,
+                                                  "short_description":  "Drag \u0026amp; drop to export orders to CSV, Excel, or XML files of any format. Supports customer data, line items, date range filtering, and more with po \u0026hellip;",
+                                                  "opportunity_score":  55,
+                                                  "signals":  "low_rating"
+                                              },
+                                              {
+                                                  "slug":  "wp-lister-for-ebay",
+                                                  "name":  "WP-Lister Lite for eBay",
+                                                  "active_installs":  2000,
+                                                  "installs_num":  2000,
+                                                  "rating":  4.3,
+                                                  "num_ratings":  74,
+                                                  "last_updated":  "2026-06-03 7:58am GMT",
+                                                  "days_stale":  42,
+                                                  "short_description":  "List products from WordPress on eBay. The easy way.",
+                                                  "opportunity_score":  33,
+                                                  "signals":  {
+
+                                                              }
+                                              }
+                                          ],
+                       "audited_at":  "2026-07-14T22:16:41.2560107Z"
+                   },
+                   {
+                       "niche_id":  "schema-general",
+                       "niche_name":  "Schema Markup SEO (General WP)",
+                       "our_product":  "woo-ai-schema",
+                       "target_price":  79,
+                       "priority":  2,
+                       "plugins_found":  20,
+                       "avg_installs":  915080,
+                       "niche_score":  76,
+                       "recommendation":  "BUILD",
+                       "top_opportunities":  [
+                                                 {
+                                                     "slug":  "metasync",
+                                                     "name":  "Search Atlas SEO \u0026#8211; Premier SEO Plugin for One-Click WP Publishing \u0026amp; Integrated AI Optimization",
+                                                     "active_installs":  8000,
+                                                     "installs_num":  8000,
+                                                     "rating":  3.4,
+                                                     "num_ratings":  23,
+                                                     "last_updated":  "2026-07-10 11:59pm GMT",
+                                                     "days_stale":  4,
+                                                     "short_description":  "Search Atlas SEO is a user-friendly WordPress plugin that simplifies complex and time-consuming SEO tasks into efficient, easy-to-manage processes.",
+                                                     "opportunity_score":  59,
+                                                     "signals":  "low_rating"
+                                                 },
+                                                 {
+                                                     "slug":  "seo-wordpress",
+                                                     "name":  "Praison AI SEO",
+                                                     "active_installs":  1000,
+                                                     "installs_num":  1000,
+                                                     "rating":  3.6,
+                                                     "num_ratings":  5,
+                                                     "last_updated":  "2026-06-30 1:39pm GMT",
+                                                     "days_stale":  14,
+                                                     "short_description":  "AI-powered SEO optimization for WordPress. Generate meta descriptions, titles, schema markup, and comprehensive SEO analysis using OpenAI.",
+                                                     "opportunity_score":  50,
+                                                     "signals":  "low_rating"
+                                                 },
+                                                 {
+                                                     "slug":  "siteseo",
+                                                     "name":  "SiteSEO \u0026#8211; SEO Simplified",
+                                                     "active_installs":  500000,
+                                                     "installs_num":  500000,
+                                                     "rating":  4,
+                                                     "num_ratings":  9,
+                                                     "last_updated":  "2026-07-13 9:59am GMT",
+                                                     "days_stale":  1,
+                                                     "short_description":  "SiteSEO is an easy, fast and powerful SEO plugin for WordPress. Unlock your Website\u0026#039;s potential and Maximize your online visibility with our SiteSEO!",
+                                                     "opportunity_score":  45,
+                                                     "signals":  {
+
+                                                                 }
+                                                 },
+                                                 {
+                                                     "slug":  "review-schema",
+                                                     "name":  "Schema Engine AI – AI Schema Markup, Reviews \u0026amp; Rich Snippets for SEO",
+                                                     "active_installs":  10000,
+                                                     "installs_num":  10000,
+                                                     "rating":  4.8,
+                                                     "num_ratings":  25,
+                                                     "last_updated":  "2026-06-22 7:51am GMT",
+                                                     "days_stale":  23,
+                                                     "short_description":  "AI-Powered schema markup plugin for WordPress. Generate JSON-LD schema and FAQs, validate Rich Results, and audit your structured data.",
+                                                     "opportunity_score":  45,
+                                                     "signals":  {
+
+                                                                 }
+                                                 },
+                                                 {
+                                                     "slug":  "smartcrawl-seo",
+                                                     "name":  "SmartCrawl SEO checker, analyzer \u0026amp; optimizer",
+                                                     "active_installs":  20000,
+                                                     "installs_num":  20000,
+                                                     "rating":  4.8,
+                                                     "num_ratings":  169,
+                                                     "last_updated":  "2026-06-18 11:46am GMT",
+                                                     "days_stale":  26,
+                                                     "short_description":  "SEO checker, content analysis \u0026amp; SEO optimizer. Rank higher on search engines with 301 redirects, XML sitemaps \u0026amp; one-click setup.",
+                                                     "opportunity_score":  40,
+                                                     "signals":  {
+
+                                                                 }
+                                                 }
+                                             ],
+                       "top_incumbents":  [
+                                              {
+                                                  "slug":  "wordpress-seo",
+                                                  "name":  "Yoast SEO \u0026#8211; Advanced SEO with real-time guidance and built-in AI",
+                                                  "active_installs":  10000000,
+                                                  "installs_num":  10000000,
+                                                  "rating":  4.8,
+                                                  "num_ratings":  27814,
+                                                  "last_updated":  "2026-07-06 8:51am GMT",
+                                                  "days_stale":  8,
+                                                  "short_description":  "Improve your SEO with real-time feedback, schema, and clear guidance. Upgrade for AI tools, Google Docs integration, and 24/7 support, no hidden fees.",
+                                                  "opportunity_score":  15,
+                                                  "signals":  {
+
+                                                              }
+                                              },
+                                              {
+                                                  "slug":  "seo-by-rank-math",
+                                                  "name":  "Rank Math SEO – AI SEO Tools to Dominate SEO Rankings",
+                                                  "active_installs":  4000000,
+                                                  "installs_num":  4000000,
+                                                  "rating":  4.8,
+                                                  "num_ratings":  7463,
+                                                  "last_updated":  "2026-07-14 7:12am GMT",
+                                                  "days_stale":  1,
+                                                  "short_description":  "Grow your organic traffic and AI visibility with powerful SEO tools, XML sitemaps, Schema automation, and built-in AI SEO, all in one place.",
+                                                  "opportunity_score":  15,
+                                                  "signals":  {
+
+                                                              }
+                                              },
+                                              {
+                                                  "slug":  "all-in-one-seo-pack",
+                                                  "name":  "All in One SEO – AI SEO Plugin to Boost SEO Rankings \u0026amp; Traffic (Schema, Local SEO, Sitemap \u0026amp; SEO Insights)",
+                                                  "active_installs":  3000000,
+                                                  "installs_num":  3000000,
+                                                  "rating":  4.7,
+                                                  "num_ratings":  5168,
+                                                  "last_updated":  "2026-07-08 2:11pm GMT",
+                                                  "days_stale":  6,
+                                                  "short_description":  "AIOSEO is the WordPress SEO plugin. Boost SEO rankings with AI SEO tools, schema, meta descriptions, XML sitemaps \u0026amp; rank tracking.",
+                                                  "opportunity_score":  15,
+                                                  "signals":  {
+
+                                                              }
+                                              }
+                                          ],
+                       "audited_at":  "2026-07-14T22:16:42.9438205Z"
+                   },
+                   {
+                       "niche_id":  "woo-reviews-schema",
+                       "niche_name":  "WooCommerce Review Schema",
+                       "our_product":  "woo-ai-schema",
+                       "target_price":  49,
+                       "priority":  2,
+                       "plugins_found":  0,
+                       "avg_installs":  0,
+                       "niche_score":  15,
+                       "recommendation":  "SKIP",
+                       "top_opportunities":  [
+
+                                             ],
+                       "top_incumbents":  [
+
+                                          ],
+                       "audited_at":  "2026-07-14T22:16:43.8952390Z"
+                   }
+               ]
+}

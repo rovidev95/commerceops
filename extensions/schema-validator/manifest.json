@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "CommerceOps Schema Validator",
+  "version": "1.0.0",
+  "description": "Validate JSON-LD Product schema on any page. Companion to CommerceOps Woo AI Schema.",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_title": "Schema Validator",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

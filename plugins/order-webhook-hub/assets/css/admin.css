@@ -1,0 +1,35 @@
+.commerceops-wrap .co-card {
+	background: #fff;
+	border: 1px solid #c3c4c7;
+	border-radius: 4px;
+	padding: 16px 20px;
+	margin: 16px 0;
+	max-width: 820px;
+}
+
+.commerceops-wrap .co-badge {
+	display: inline-block;
+	font-size: 11px;
+	font-weight: 600;
+	padding: 2px 8px;
+	border-radius: 999px;
+	background: #2271b1;
+	color: #fff;
+	vertical-align: middle;
+}
+
+.commerceops-wrap .co-score {
+	font-size: 42px;
+	font-weight: 700;
+	margin: 8px 0;
+	color: #1d2327;
+}
+
+.commerceops-wrap .co-status--ok { color: #008a20; font-weight: 600; }
+.commerceops-wrap .co-status--free { color: #646970; }
+
+.commerceops-wrap .co-list { list-style: disc; margin-left: 20px; }
+
+.commerceops-wrap .co-message { margin-top: 10px; }
+.commerceops-wrap .co-message.is-error { color: #b32d2e; }
+.commerceops-wrap .co-message.is-success { color: #008a20; }
