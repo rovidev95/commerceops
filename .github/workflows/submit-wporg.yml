@@ -1,0 +1,38 @@
+name: Submit WordPress.org Plugin
+
+on:
+  workflow_dispatch:
+    inputs:
+      plugin:
+        description: Plugin slug
+        required: true
+        default: woo-ai-schema
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install Playwright
+        run: |
+          cd automation
+          npm ci
+          npx playwright install chromium
+      - name: Build plugin zip
+        shell: pwsh
+        run: ./scripts/Build-CommerceOpsPlugins.ps1 -PluginSlug ${{ inputs.plugin }}
+      - name: Submit to WordPress.org
+        env:
+          WPORG_USER: ${{ secrets.WPORG_USER }}
+          WPORG_PASSWORD: ${{ secrets.WPORG_PASSWORD }}
+          CO_PLUGIN_ZIP: dist/${{ inputs.plugin }}.zip
+          CO_LOGIN_WAIT_MS: 120000
+        run: node automation/submit-wporg.mjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: wporg-submit-screenshots
+          path: data/wporg-*.png
