@@ -1,4 +1,5 @@
 automation/node_modules/
+automation/.chrome-profile/
 data/wporg-*.png
 data/wporg-submit-result.json
 data/daily-log.jsonl
